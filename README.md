@@ -1,6 +1,6 @@
 **Welcome to My GitHub Profile! 👋**
 
-👋 Hi there! I'm Sandeep Subhrajyoti, a Data Scientist based in Hyderabad, India.
+👋 Hi there! I'm Sandeep Subhrajyoti, a Data Analyst based in Hyderabad, India.
 
 🌱 I'm currently working on machine learning projects focusing on fraud detection.
 
