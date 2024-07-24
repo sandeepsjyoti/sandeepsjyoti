@@ -1,4 +1,4 @@
-*Welcome to My GitHub Profile! 👋*
+**Welcome to My GitHub Profile! 👋**
 
 👋 Hi there! I'm Sandeep Subhrajyoti, a Data Scientist based in Hyderabad, India.
 
