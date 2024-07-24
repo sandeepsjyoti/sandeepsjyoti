@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @sandeepsjyoti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to My GitHub Profile! 👋
+👋 Hi there! I'm Sandeep Subhrajyoti, a Data Scientist based in Hyderabad, India.
 
-<!---
-sandeepsjyoti/sandeepsjyoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I'm currently working on machine learning projects focusing on fraud detection.
+
+🔭 I'm currently learning advanced techniques in deep learning and AI.
+
+💬 Ask me about SQL, Machine Learning, Python, TensorFlow, and NLP.
