@@ -1,3 +1,4 @@
+![logo](https://github.com/sandeepsjyoti/sandeepsjyoti/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Sandeep Subhrajyoti</h1>
 <h3 align="center">A Data Analyst based in Hyderabad, India.</h3>
 
